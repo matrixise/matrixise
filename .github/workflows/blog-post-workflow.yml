@@ -27,8 +27,6 @@ jobs:
         with:
           feed_list: "https://wirtel.be/index.xml"
           max_post_count: 5
-          template: "- **[$title]($url)** - $newline"
-          date_format: "mmmm yyyy"
           committer_username: "Stéphane Wirtel"
           committer_email: "stephane@wirtel.be"
           commit_message: "Updated README with latest blog posts"
