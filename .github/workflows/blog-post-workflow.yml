@@ -1,0 +1,35 @@
+name: Latest Blog Post Workflow
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure git
+        run: |
+          git config --global user.name "Stéphane Wirtel"
+          git config --global user.email "stephane@wirtel.be"
+
+      - name: Pull in blog posts from wirtel.be
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://wirtel.be/index.xml"
+          max_post_count: 5
+          template: "- **[$title]($url)** - $newline"
+          date_format: "mmmm yyyy"
+          committer_username: "Stéphane Wirtel"
+          committer_email: "stephane@wirtel.be"
+          commit_message: "Updated README with latest blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
