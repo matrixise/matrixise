@@ -1,22 +1,22 @@
 # Hi there 👋 I'm Stéphane Wirtel
 
-**Senior Python Expert | CPython Core Developer | Open Source Community Leader**
+**Senior Python Expert | CPython Core Developer**
 
 - 🐍 CPython Core Developer since 2019
 - 🎤 International conference speaker (PyCon, EuroPython, FOSDEM)
 - 📝 Technical writer & blogger at [wirtel.be](https://wirtel.be)
 - 🥋 2nd DAN Karate JKA
-- 🏢 Founder of [MGX.IO](mailto:stephane.wirtel@mgx.io) - Python consulting
+- 🏢 Founder of [MGX.IO](https://www.mgx.io) - Python consulting
 
 ---
 
 ## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- **[Claude Code : comment un assistant IA m&#39;a fait gagner des jours de développement](https://wirtel.be/post/2025/11/22/claude-code-retour-experience-pycon-ireland/)** - 
-- **[Retour aux études : ma formation en intelligence artificielle chez Alyra](https://wirtel.be/post/2025/10/18/retour-aux-etudes-ma-formation-en-intelligence-artificielle-chez-alyra/)** - 
-- **[How about checking out the upcoming interesting conferences?](https://wirtel.be/post/2025/09/17/how-about-checking-out-the-upcoming-interesting-conferences/)** - 
-- **[Utilisation d&#39;Obsidian comme source pour Hugo](https://wirtel.be/post/2025/09/04/use-obsidian-as-source-for-hugo/)** - 
-- **[Séjour aux Rêves de Baie de Somme – Maison d’hôtes chaleureuse en Picardie](https://wirtel.be/post/2025/08/11/les-reves-de-baie-de-somme/)** - 
+<!-- BLOG-POST-LIST:START -->
+- **[Claude Code - How an AI Assistant Made Me Save Days of Development](https://wirtel.be)** - November 2025
+- **[Relaunching My Python 3.13 Book](https://wirtel.be)** - August 2025
+- **[From Script to Version 1.0.0 — 12 Years Later](https://wirtel.be)** - May 2025 | dsmtpd project milestone
+- **[Blockchain Developer Certification](https://wirtel.be)** - April 2025 | Shin Gi Tai project
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on my blog](https://wirtel.be)
@@ -26,16 +26,13 @@
 ## 🚀 Featured Projects
 
 ### CPython Core Developer
-Contributing to the Python programming language - bug triage, documentation improvements, and DevGuide maintenance since 2019.
+Contributing to the Python programming language - bug triage, documentation improvements since 2019.
 
 ### [PythonFOSDEM](https://python-fosdem.org)
-Founder and organizer of PythonFOSDEM, a community event that has grown from 80 to 800+ attendees, bringing Python enthusiasts together at FOSDEM.
+Co-Founder and co-organizer of PythonFOSDEM, a community event that has grown from 80 to 800+ attendees, bringing Python enthusiasts together at FOSDEM.
 
 ### [dsmtpd](https://pypi.org/project/dsmtpd/)
 SMTP debugging tool for Python developers - a project that evolved from a simple script to version 1.0.0 over 12 years.
-
-### Shin Gi Tai
-Blockchain system for martial arts certifications, built with Solidity and Next.js, combining my passion for technology and karate.
 
 ---
 
@@ -96,7 +93,7 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 - 🐍 Contributing to **CPython** and maintaining the Developer Guide
 - 🎪 Organizing **PythonFOSDEM** community events
 - 💼 Available for **Python consulting** and **speaking opportunities**
-- 🌱 Exploring the intersection of Python and blockchain technologies
+- 🌱 Exploring the intersection of Python and blockchain technologies and data science (machine learning, deep learning)
 
 ---
 
