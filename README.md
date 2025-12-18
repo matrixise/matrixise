@@ -12,11 +12,11 @@
 
 ## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- **[Claude Code: How an AI Assistant Made Me Save Days of Development](https://wirtel.be)** - November 2025
-- **[Relaunching My Python 3.13 Book](https://wirtel.be)** - August 2025
-- **[From Script to Version 1.0.0 — 12 Years Later](https://wirtel.be)** - May 2025 | dsmtpd project milestone
-- **[Blockchain Developer Certification](https://wirtel.be)** - April 2025 | Shin Gi Tai project
+<!-- BLOG-POST-LIST:START -->- **[Claude Code : comment un assistant IA m&#39;a fait gagner des jours de développement](https://wirtel.be/post/2025/11/22/claude-code-retour-experience-pycon-ireland/)** - 
+- **[Retour aux études : ma formation en intelligence artificielle chez Alyra](https://wirtel.be/post/2025/10/18/retour-aux-etudes-ma-formation-en-intelligence-artificielle-chez-alyra/)** - 
+- **[How about checking out the upcoming interesting conferences?](https://wirtel.be/post/2025/09/17/how-about-checking-out-the-upcoming-interesting-conferences/)** - 
+- **[Utilisation d&#39;Obsidian comme source pour Hugo](https://wirtel.be/post/2025/09/04/use-obsidian-as-source-for-hugo/)** - 
+- **[Séjour aux Rêves de Baie de Somme – Maison d’hôtes chaleureuse en Picardie](https://wirtel.be/post/2025/08/11/les-reves-de-baie-de-somme/)** - 
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on my blog](https://wirtel.be)
