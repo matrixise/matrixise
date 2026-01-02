@@ -64,9 +64,14 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Areas of Expertise:**
 - CPython internals and core development
+- Machine Learning & Data Science
+- Educational data mining and predictive analytics
 - Web frameworks (Django, FastAPI, Wagtail)
 - Database design and PostgreSQL optimization
 - Web3 and blockchain development (Solidity, smart contracts)
@@ -74,6 +79,31 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 - Open source community leadership
 - DevOps & Infrastructure automation (Ansible, Docker, Traefik)
 - System administration and large-scale Debian migrations
+
+---
+
+## 🤖 Machine Learning & AI
+
+Passionné par l'application de l'IA à des problèmes concrets avec impact social, notamment dans le domaine éducatif.
+
+**Projets récents:**
+- 📊 **Analyse prédictive en éducation** - Modèle ML pour identifier et accompagner les étudiants à risque de décrochage
+- 🔄 **Pipelines ML end-to-end** - De l'exploration de données à la mise en production avec tests et CI/CD
+- 📈 **Feature engineering** - Création de features métier (taux de réussite, tendances de performance, segmentation)
+
+**Stack ML/Data Science:**
+- **Core ML:** scikit-learn (pipelines, preprocessing), pandas, numpy
+- **Visualization:** matplotlib, seaborn, plotly
+- **Tools:** Jupyter notebooks, pytest pour ML testing, data validation avec pandera
+- **MLOps:** Reproducible builds, model versioning avec joblib, CI/CD pour ML
+
+**Approche:**
+- ✅ Code de qualité production avec tests automatisés
+- ✅ Documentation claire et complète (en français et anglais)
+- ✅ Reproductibilité totale (seeds, lockfiles, versioning)
+- ✅ UX développeur (CLIs interactifs avec Typer & Rich)
+
+💡 *Actuellement en formation IA/ML chez [Alyra](https://alyra.fr), appliquant les bonnes pratiques Python au Machine Learning.*
 
 ---
 
