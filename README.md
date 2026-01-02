@@ -84,8 +84,6 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 
 ## 🤖 Machine Learning & AI
 
-Passionate about applying AI to real-world problems with social impact, particularly in education.
-
 **Recent Projects:**
 - 📊 **Educational Predictive Analytics** - ML model to identify and support students at risk of dropout
 - 🔄 **End-to-End ML Pipelines** - From data exploration to production deployment with testing and CI/CD
@@ -94,16 +92,8 @@ Passionate about applying AI to real-world problems with social impact, particul
 **ML/Data Science Stack:**
 - **Core ML:** scikit-learn (pipelines, preprocessing), pandas, numpy
 - **Visualization:** matplotlib, seaborn, plotly
-- **Tools:** Jupyter notebooks, pytest for ML testing, data validation with pandera
+- **Tools:** Jupyter notebooks
 - **MLOps:** Reproducible builds, model versioning with joblib, CI/CD for ML
-
-**Approach:**
-- ✅ Production-quality code with automated testing
-- ✅ Clear and comprehensive documentation
-- ✅ Full reproducibility (seeds, lockfiles, versioning)
-- ✅ Developer UX (interactive CLIs with Typer & Rich)
-
-💡 *Currently in AI/ML training at [Alyra](https://alyra.fr), applying Python best practices to Machine Learning.*
 
 ---
 
