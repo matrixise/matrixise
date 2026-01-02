@@ -32,6 +32,9 @@ Contributing to the Python programming language - bug triage, documentation impr
 ### [PythonFOSDEM](https://python-fosdem.org)
 Co-Founder and co-organizer of PythonFOSDEM, a community event that has grown from 80 to 800+ attendees, bringing Python enthusiasts together at FOSDEM.
 
+### [Python Ireland](https://python.ie)
+PyCon Ireland co-organizer (2020-2025) & python.ie maintainer — 11 years serving Ireland's Python community through code, talks, and event organization.
+
 ### [dsmtpd](https://pypi.org/project/dsmtpd/)
 SMTP debugging tool for Python developers - a project that evolved from a simple script to version 1.0.0 over 12 years.
 
