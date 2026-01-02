@@ -64,9 +64,14 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Areas of Expertise:**
 - CPython internals and core development
+- Machine Learning & Data Science
+- Educational data mining and predictive analytics
 - Web frameworks (Django, FastAPI, Wagtail)
 - Database design and PostgreSQL optimization
 - Web3 and blockchain development (Solidity, smart contracts)
@@ -74,6 +79,21 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 - Open source community leadership
 - DevOps & Infrastructure automation (Ansible, Docker, Traefik)
 - System administration and large-scale Debian migrations
+
+---
+
+## 🤖 Machine Learning & AI
+
+**Recent Projects:**
+- 📊 **Educational Predictive Analytics** - ML model to identify and support students at risk of dropout
+- 🔄 **End-to-End ML Pipelines** - From data exploration to production deployment with testing and CI/CD
+- 📈 **Feature Engineering** - Creating business-driven features (success rates, performance trends, segmentation)
+
+**ML/Data Science Stack:**
+- **Core ML:** scikit-learn (pipelines, preprocessing), pandas, numpy
+- **Visualization:** matplotlib, seaborn, plotly
+- **Tools:** Jupyter notebooks
+- **MLOps:** Reproducible builds, model versioning with joblib, CI/CD for ML
 
 ---
 
