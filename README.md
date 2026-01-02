@@ -146,7 +146,7 @@ Built a production-ready medical diagnosis system using **Bio_ClinicalBERT** for
 [![Blog](https://img.shields.io/badge/Blog-wirtel.be-blue?style=for-the-badge)](https://wirtel.be)
 [![Twitter](https://img.shields.io/badge/Twitter-@matrixise-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matrixise)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stephanewirtel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephanewirtel)
-[![Email](https://img.shields.io/badge/Email-stephane@wirtel.be-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephane@wirtel.be)
+[![Email](https://img.shields.io/badge/Email-stephane.wirtel@mgx.io-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephane.wirtel@mgx.io)
 
 ---
 
