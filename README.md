@@ -58,6 +58,9 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 
 **Areas of Expertise:**
 - CPython internals and core development
@@ -66,6 +69,8 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 - Web3 and blockchain development (Solidity, smart contracts)
 - Financial systems and risk modeling
 - Open source community leadership
+- DevOps & Infrastructure automation (Ansible, Docker, Traefik)
+- System administration and large-scale Debian migrations
 
 ---
 
@@ -94,8 +99,9 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 - 🐍 Contributing to **CPython** and maintaining the Developer Guide
 - 🎪 Organizing **PythonFOSDEM** community events
 - 💼 Available for **Python consulting** and **speaking opportunities**
+- 🏗️ Building infrastructure automation with **Ansible** and **Docker**
 - 🌱 Exploring the intersection of Python and blockchain technologies and data science (machine learning, deep learning)
 
 ---
 
-*Last updated: December 2025*
+*Last updated: January 2026*
