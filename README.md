@@ -67,6 +67,10 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-000000?style=for-the-badge&logo=chainlit&logoColor=white)
 
 **Areas of Expertise:**
 - CPython internals and core development
@@ -84,6 +88,8 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 
 ## 🤖 Machine Learning & AI
 
+### Classical ML & Data Science
+
 **Recent Projects:**
 - 📊 **Educational Predictive Analytics** - ML model to identify and support students at risk of dropout
 - 🔄 **End-to-End ML Pipelines** - From data exploration to production deployment with testing and CI/CD
@@ -94,6 +100,34 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 - **Visualization:** matplotlib, seaborn, plotly
 - **Tools:** Jupyter notebooks
 - **MLOps:** Reproducible builds, model versioning with joblib, CI/CD for ML
+
+### Deep Learning & NLP
+
+**DiagnosIA - Medical Diagnosis Classification System**
+
+Built a production-ready medical diagnosis system using **Bio_ClinicalBERT** for symptom-to-disease classification with 6 disease classes.
+
+**Key Achievements:**
+- Implemented **transfer learning** with Bio_ClinicalBERT fine-tuning
+- Designed intelligent **medical data augmentation** (shuffle, drop, templates) preserving clinical meaning
+- Achieved production deployment with **4 user interfaces** (CLI, REST API, Streamlit, Chainlit)
+- Architected **BERT + LLM hybrid system**: BERT for prediction, LLM for clinical summaries
+- Multi-backend LLM support (Ollama local, Lightning.AI cloud)
+
+**Deep Learning Stack:**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+
+**Core Skills:**
+- Transfer learning & model fine-tuning
+- Text classification with transformers (BERT family)
+- Production ML pipelines (training, evaluation, deployment)
+- Multi-device optimization (CUDA, MPS, CPU)
+- LLM integration and prompt engineering
+- ML application development (API, Web UI, Chat)
 
 ---
 
@@ -123,7 +157,8 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 - 🎪 Organizing **PythonFOSDEM** community events
 - 💼 Available for **Python consulting** and **speaking opportunities**
 - 🏗️ Building infrastructure automation with **Ansible** and **Docker**
-- 🌱 Exploring the intersection of Python and blockchain technologies and data science (machine learning, deep learning)
+- 🌱 Exploring the intersection of Python and blockchain technologies
+- 🤖 Building **Deep Learning** applications with transformers and LLMs (see DiagnosIA project)
 
 ---
 
