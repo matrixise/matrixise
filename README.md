@@ -84,26 +84,26 @@ I've delivered 9 major talks across Europe and North America at conferences incl
 
 ## 🤖 Machine Learning & AI
 
-Passionné par l'application de l'IA à des problèmes concrets avec impact social, notamment dans le domaine éducatif.
+Passionate about applying AI to real-world problems with social impact, particularly in education.
 
-**Projets récents:**
-- 📊 **Analyse prédictive en éducation** - Modèle ML pour identifier et accompagner les étudiants à risque de décrochage
-- 🔄 **Pipelines ML end-to-end** - De l'exploration de données à la mise en production avec tests et CI/CD
-- 📈 **Feature engineering** - Création de features métier (taux de réussite, tendances de performance, segmentation)
+**Recent Projects:**
+- 📊 **Educational Predictive Analytics** - ML model to identify and support students at risk of dropout
+- 🔄 **End-to-End ML Pipelines** - From data exploration to production deployment with testing and CI/CD
+- 📈 **Feature Engineering** - Creating business-driven features (success rates, performance trends, segmentation)
 
-**Stack ML/Data Science:**
+**ML/Data Science Stack:**
 - **Core ML:** scikit-learn (pipelines, preprocessing), pandas, numpy
 - **Visualization:** matplotlib, seaborn, plotly
-- **Tools:** Jupyter notebooks, pytest pour ML testing, data validation avec pandera
-- **MLOps:** Reproducible builds, model versioning avec joblib, CI/CD pour ML
+- **Tools:** Jupyter notebooks, pytest for ML testing, data validation with pandera
+- **MLOps:** Reproducible builds, model versioning with joblib, CI/CD for ML
 
-**Approche:**
-- ✅ Code de qualité production avec tests automatisés
-- ✅ Documentation claire et complète (en français et anglais)
-- ✅ Reproductibilité totale (seeds, lockfiles, versioning)
-- ✅ UX développeur (CLIs interactifs avec Typer & Rich)
+**Approach:**
+- ✅ Production-quality code with automated testing
+- ✅ Clear and comprehensive documentation
+- ✅ Full reproducibility (seeds, lockfiles, versioning)
+- ✅ Developer UX (interactive CLIs with Typer & Rich)
 
-💡 *Actuellement en formation IA/ML chez [Alyra](https://alyra.fr), appliquant les bonnes pratiques Python au Machine Learning.*
+💡 *Currently in AI/ML training at [Alyra](https://alyra.fr), applying Python best practices to Machine Learning.*
 
 ---
 
