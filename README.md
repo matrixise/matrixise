@@ -13,11 +13,11 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating TLS Certificate Monitoring with GitHub Actions, certificate_watcher, and Slack](https://wirtel.be/post/2026/01/08/automating-tls-certificate-monitoring-github-actions-certificate-watcher-slack/)
 - [dsmtpd 1.2.0: Test Your Emails Risk-Free](https://wirtel.be/post/2026/01/07/dsmtpd-1-2-0-test-your-emails-risk-free/)
 - [Claude Code : comment un assistant IA m&#39;a fait gagner des jours de développement](https://wirtel.be/post/2025/11/22/claude-code-retour-experience-pycon-ireland/)
 - [Retour aux études : ma formation en intelligence artificielle chez Alyra](https://wirtel.be/post/2025/10/18/retour-aux-etudes-ma-formation-en-intelligence-artificielle-chez-alyra/)
 - [How about checking out the upcoming interesting conferences?](https://wirtel.be/post/2025/09/17/how-about-checking-out-the-upcoming-interesting-conferences/)
-- [Utilisation d&#39;Obsidian comme source pour Hugo](https://wirtel.be/post/2025/09/04/use-obsidian-as-source-for-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on my blog](https://wirtel.be)
