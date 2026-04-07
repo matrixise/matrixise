@@ -152,7 +152,7 @@ Built a production-ready medical diagnosis system using **Bio_ClinicalBERT** for
 
 ## 🎯 Currently
 
-- 📖 Writing and relaunching my **Python 3.14 book**
+- 📖 Writing and relaunching my **[Python 3.14 book](https://wirtel.be/post/2026/04/07/livre-python-reconstruction/)**
 - 🐍 Contributing to **CPython** and maintaining the Developer Guide
 - 🎪 Organizing **PythonFOSDEM** community events
 - 💼 Available for **Python consulting** and **speaking opportunities**
