@@ -13,11 +13,11 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ce livre Python que je voulais juste mettre à jour](https://wirtel.be/post/2026/04/07/livre-python-reconstruction/)
 - [Certified AI Developer - A Journey of Growth, Grief, and New Beginning](https://wirtel.be/post/2026/02/05/2026-certified-ai-developer/)
 - [Automating TLS Certificate Monitoring with GitHub Actions, certificate_watcher, and Slack](https://wirtel.be/post/2026/01/08/automating-tls-certificate-monitoring-github-actions-certificate-watcher-slack/)
 - [dsmtpd 1.2.0: Test Your Emails Risk-Free](https://wirtel.be/post/2026/01/07/dsmtpd-1-2-0-test-your-emails-risk-free/)
 - [Claude Code : comment un assistant IA m&#39;a fait gagner des jours de développement](https://wirtel.be/post/2025/11/22/claude-code-retour-experience-pycon-ireland/)
-- [Retour aux études : ma formation en intelligence artificielle chez Alyra](https://wirtel.be/post/2025/10/18/retour-aux-etudes-ma-formation-en-intelligence-artificielle-chez-alyra/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on my blog](https://wirtel.be)
