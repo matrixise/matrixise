@@ -7,6 +7,7 @@
 - 📝 Technical writer & blogger at [wirtel.be](https://wirtel.be)
 - 🥋 2nd DAN Karate JKA
 - 🏢 Founder of [MGX.IO](https://www.mgx.io) - Python consulting
+- 🏭 Former Odoo Core Developer (formerly OpenERP, formerly TinyERP)
 
 ---
 
@@ -33,21 +34,34 @@ Contributing to the Python programming language - bug triage, documentation impr
 Co-Founder and co-organizer of PythonFOSDEM, a community event that has grown from 80 to 800+ attendees, bringing Python enthusiasts together at FOSDEM.
 
 ### [Python Ireland](https://python.ie)
-PyCon Ireland co-organizer (2020-2025) & python.ie maintainer — 11 years serving Ireland's Python community through code, talks, and event organization.
+PyCon Ireland co-organizer (2020–present) & python.ie maintainer — 11 years serving Ireland's Python community through code, talks, and event organization. Next edition planned for November 2026.
 
 ### [dsmtpd](https://pypi.org/project/dsmtpd/)
 SMTP debugging tool for Python developers - a project that evolved from a simple script to version 1.0.0 over 12 years.
+
+### [Odoo](https://www.odoo.com) (formerly OpenERP)
+Senior Software Engineer at Odoo S.A. (2008–2014) — 6 years across multiple roles: Core Developer, SaaS Engineer, Technical Trainer, and Release Manager.
+
+- **Loempia** — Author of the application store framework that became the foundation for [apps.odoo.com](https://apps.odoo.com)
+- **Client integrations** — Delivered on-site integrations and customizations for Odoo customers
+- **Technical training** — Conducted training sessions internally at Odoo as well as for partners and clients
+- **[runbot.odoo.com](https://runbot.odoo.com)** — Worked on the continuous integration platform used to test every branch of the Odoo codebase
+- **SaaS** — Involved in the early days of Odoo's SaaS offering, one of the first cloud ERP initiatives in the ecosystem
 
 ---
 
 ## 🎤 Conference Talks
 
-I've delivered 9 major talks across Europe and North America at conferences including:
+Talks delivered across Europe and North America:
 
-- **PyCon Ireland** - Python and open source development
-- **PyCon Canada** - CPython internals and contribution workflows
-- **EuroPython** - Advanced Python topics
-- **FOSDEM** - Community building and Python ecosystem
+- **[Exploring our Python Interpreter](https://www.youtube.com/watch?v=R0lDKw0FQSI)** — EuroPython 2016
+- **[Architecture of CPython, the bricks!](https://www.youtube.com/watch?v=ZkAc6hzGun4)** — PyCon Canada 2016
+- **[Django: From nightmare to a dream](https://www.youtube.com/watch?v=szclRga-hDk)** — EuroPython 2017
+- **[What's new in Python 3.7](https://www.youtube.com/watch?v=uSp0-TkGx3c)** — EuroPython 2018
+- **[CPython loves your Pull Requests](https://www.youtube.com/watch?v=vIp-2R2WexE)** — PyCon Canada 2018
+- **[Python & PostgreSQL, a Wonderful Wedding](https://www.youtube.com/watch?v=0Ab-0IdjSig)** — PyCon UK 2015
+
+➡️ [All talks on mgx.io](https://www.mgx.io)
 
 ---
 
@@ -144,7 +158,7 @@ Built a production-ready medical diagnosis system using **Bio_ClinicalBERT** for
 ## 📫 Connect With Me
 
 [![Blog](https://img.shields.io/badge/Blog-wirtel.be-blue?style=for-the-badge)](https://wirtel.be)
-[![Twitter](https://img.shields.io/badge/Twitter-@matrixise-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matrixise)
+[![X](https://img.shields.io/badge/X-@matrixise-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matrixise)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-stephanewirtel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephanewirtel)
 [![Email](https://img.shields.io/badge/Email-stephane.wirtel@mgx.io-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephane.wirtel@mgx.io)
 
@@ -157,9 +171,9 @@ Built a production-ready medical diagnosis system using **Bio_ClinicalBERT** for
 - 🎪 Organizing **PythonFOSDEM** community events
 - 💼 Available for **Python consulting** and **speaking opportunities**
 - 🏗️ Building infrastructure automation with **Ansible** and **Docker**
-- 🌱 Exploring the intersection of Python and blockchain technologies
+- 🤖 Deep-diving into the AI ecosystem: LLMs, RAG, MCP, A2A, and autonomous agents
 - 🤖 Building **Deep Learning** applications with transformers and LLMs (see DiagnosIA project)
 
 ---
 
-*Last updated: April 2026*
+*Last updated: May 2026*
